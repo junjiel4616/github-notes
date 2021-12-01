@@ -4,6 +4,6 @@ Git is a software program that allows you to control your versions. So in simple
 ### GitHub 
 GitHub is just basically a web service that has git already pre prepared in it so you wouldn't have to have git on your thing itself. Really not much to say about it but that it just a easier way to manage your work instead of having git actually on your device.
 ### Repo
-Github's repository is just another word for your projects. It shows you all your files and allows you to have multiple files for one project that is easily accessible to you. It is just a faster way for you to find your files from the home screen.
+Github's repository is just another word for your projects. It allows you to create a project that can have maybe files attached to it. 
 ### Commit
 Commit basically allows you to save your work. And with commit you can save those certain changes into versions that you can detail, it is so that it makes it easier to go back and find later on if you plan to change something.
